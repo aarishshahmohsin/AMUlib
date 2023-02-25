@@ -2,7 +2,7 @@
 #================ Docs: https://github.com/isunjn/serene/wiki ============================
 #=========================================================================================
 
-base_url = "https://example.com" # The domain of your site
+base_url = "prismatic-pavlova-7e258f.netlify.app" # The domain of your site
 title = "Chad AMU Pedia"
 description = "hello"
 default_language = "en"
