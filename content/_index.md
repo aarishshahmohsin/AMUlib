@@ -7,10 +7,9 @@ lang = 'en'
 
 This is a website which provides high quality material for AMU B.Tech Students.
 
-Advantages over our Competitors:
-1. No website bloat
-2. No adds
-3. No water marks
-4. No cringe founder pictures
-5. Fast and efficient
+This website is currently under development
+Hence,
+1. All subjects are not yet completed.
+2. There are still a few rough edges.
+3. No proper domain yet
 
