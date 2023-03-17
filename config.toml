@@ -2,7 +2,7 @@
 #================ Docs: https://github.com/isunjn/serene/wiki ============================
 #=========================================================================================
 
-base_url = "https://chadamupedia.netlify.app" # The domain of your site
+base_url = "https://amulib.netlify.app" # The domain of your site
 title = "AMUlib"
 description = "hello"
 default_language = "en"
