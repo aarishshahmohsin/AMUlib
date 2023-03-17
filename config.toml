@@ -3,7 +3,7 @@
 #=========================================================================================
 
 base_url = "https://chadamupedia.netlify.app" # The domain of your site
-title = "Chad AMU Pedia"
+title = "AMUlib"
 description = "hello"
 default_language = "en"
 theme = "serene"
