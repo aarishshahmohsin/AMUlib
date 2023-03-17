@@ -35,7 +35,7 @@ anchors = "on"
 
 #=========================================================================================
 [extra]
-name = "Chad AMU Pedia"                    # Your name
+name = "AMUlib"                    # Your name
 id = "chadamupedia"                      # Your id/username/handle
 bio = "A libre website for AMU B.Tech Notes."                     # Your bio
 avatar = "img/avatar.jpg"       # Your avatar
