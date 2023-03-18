@@ -37,7 +37,7 @@ anchors = "on"
 [extra]
 name = "AMUlib"                    # Your name
 id = "chadamupedia"                      # Your id/username/handle
-bio = "A libre website for AMU B.Tech Notes."                     # Your bio
+bio = "Explore the world of Knowledge with AMULib"                     # Your bio
 avatar = "img/avatar.png"       # Your avatar
 
 show_id = false                   # Whether to show your id in homepage
