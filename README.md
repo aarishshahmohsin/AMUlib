@@ -3,7 +3,9 @@
 [Visit the website.](https://amulib.netlify.app)
 
 ## Features
-1. Manage and Download notes: Users can manage notes on various subjects, topics, and subtopics. They can also categorize their notes.
+1. Manage and Download notes: Users can manage notes on various subjects, topics, and subtopics. 
+2. Fast and Efficient
+3. No ads
 2. Dark mode: Users can switch to dark mode for a better reading experience in low light environments.
 
 ## Getting started
@@ -20,7 +22,17 @@ sudo pacman -S zola
 Other Platforms:
 use the official zola guide. [Link](https://www.getzola.org/documentation/getting-started/installation/)
 
-2. Build
+2. Clone the repository
+```sh
+git clone https://github.com/aarishshahmohsin/AMUlib/
+```
+
+3. Change directory
+```sh
+cd AMUlib
+```
+
+4. Build
 ```sh
 zola build
 ```
