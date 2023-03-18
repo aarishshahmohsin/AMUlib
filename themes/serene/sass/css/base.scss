@@ -20,7 +20,7 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
-@media screen and (min-width: 425px) {
+@media screen and (min-width: 600px) {
 
 ::-webkit-scrollbar {
   width: 8px;
@@ -100,7 +100,7 @@ a {
    */
   
   hr {
-    box-sizing: content-box; /* 1 */
+    // box-sizing: content-box; /* 1 */
     height: 0; /* 1 */
     overflow: visible; /* 2 */
   }
