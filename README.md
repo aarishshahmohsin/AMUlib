@@ -1,6 +1,6 @@
 <b>AMULib</b> is a simple yet powerful application designed to help students study in a more efficient and productive way. It allows users to manage notes on the go, making it easy to study anytime and anywhere.
 
-Visit the website. [Link](https://amulib.netlify.app)
+[Visit the website.](https://amulib.netlify.app)
 
 ## Features
 1. Manage and Download notes: Users can manage notes on various subjects, topics, and subtopics. They can also categorize their notes.
@@ -25,7 +25,7 @@ use the official zola guide. [Link](https://www.getzola.org/documentation/gettin
 zola build
 ```
 
-##Technologies used
+## Technologies used
 
 The AMULib is built using the following technologies:
 1. Zola
