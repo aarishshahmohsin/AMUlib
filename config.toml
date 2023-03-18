@@ -62,8 +62,8 @@ links = [
 feed_in_blog_section = true      # Whether to make feed file in blog section, url will be https://example.com/blog/feed.xml, read docs for more info about rss feed
 
 #============== Some feature switches ================================
-toc = true                       # Whether to show Table-Of-Contents [Can be overridden by page config]
-blur_effect = true               # Whether to turn on blur effect on navigation bar
+toc = false                       # Whether to show Table-Of-Contents [Can be overridden by page config]
+blur_effect = false               # Whether to turn on blur effect on navigation bar
 back_to_top_button = true        # Whether to show Back-To-Top button
 progress_bar = true              # Whether to show reading progress bar
 cc_license = false               # Whether to show Creative-Commons statement [Can be overridden by page config]
