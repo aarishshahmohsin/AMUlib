@@ -18,9 +18,9 @@ header {
     }
 
     a.back {
-        position: absolute;
+        position: relative;
         z-index: 1;
-        left: -80px;
+        left: -400px;
         text-decoration: none;
         color: var(--text-light-color);
         padding: 10px 0;
