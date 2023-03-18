@@ -16,7 +16,7 @@ To install AMULib on your local machine, follow these steps:
 
  Arch Linux:
 ```sh
-sudo pacman -S zola
+pacman -S zola
 ```
 
 Other Platforms:
