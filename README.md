@@ -20,7 +20,7 @@ sudo pacman -S zola
 ```
 
 Other Platforms:
-use the official zola guide. [Link](https://www.getzola.org/documentation/getting-started/installation/)
+use the official [zola guide](https://www.getzola.org/documentation/getting-started/installation/).
 
 2. Clone the repository
 ```sh
