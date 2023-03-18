@@ -38,7 +38,7 @@ anchors = "on"
 name = "xxxx"                    # Your name
 id = "xxxx"                      # Your id/username/handle
 bio = "xxxx"                     # Your bio
-avatar = "img/avatar.webp"       # Your avatar
+avatar = "img/avatar.jpg"       # Your avatar
 
 show_id = true                   # Whether to show your id in homepage
 show_projects = true             # Whether to show projects page
